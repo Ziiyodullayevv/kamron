@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: #fff;
+}
+
+.kimsan {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 30px;
+}
+
+.kimsan button  :hover {
+    display: flex;
+    color: red;
+    background-color: palevioletred;
+}
+
+.xonzo {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
